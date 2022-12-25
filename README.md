@@ -1,4 +1,4 @@
-# Udemy_Courses_Analyze  
+# Udemy Courses Analyze  
 
 Para poder acceder al proyecto Análisis de Cursos Udemy, dirigirse al file Analisis_evolucion_cursos_Udemy.ipynb
 o en el siguiente link de Google colab:  
